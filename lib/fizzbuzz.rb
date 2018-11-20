@@ -28,6 +28,3 @@ class Fizzbuzz
    array
   end
 end
-
-num = Fizzbuzz.new
-puts num.createFizzBuzz

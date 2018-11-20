@@ -23,7 +23,7 @@ describe 'Fizzbuzz' do
   end
 
   it "should be Fizz" do
-    expect(@num.createFizzBuzz[2]).to eq ("Fizz")
+    expect(@num.createFizzBuzz[2]).to eq "Fizz"
   end
 
   it "should be Buzz" do
